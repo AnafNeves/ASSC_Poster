@@ -15,7 +15,7 @@
 
 ## Links to the analyses scripts
 
-- [Study1](https://realitybending.github.io/RealityBending/FakeFace2/analysis/2_analysis.html)
+- [Study1](https://realitybending.github.io/FakeFace2/analysis/2_analysis.html)
 - [Study2](https://realitybending.github.io/FictionEro//study1/analysis/2_emotions.html)
 - [Study3](https://realitybending.github.io/FictionEro/study2/analysis/2_emotion.html)
 
