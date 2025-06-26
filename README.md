@@ -1,8 +1,11 @@
 # ASSC 28 POSTER
 
-**Title**: *Do We Find AI-Generated Less Emotional?* The Impact Of Reality Beliefs On Affective Responses
+**Title**: *Do We Find AI-Generated Less Emotional?* The Impact Of Reality Beliefs On Affective Responses 
+
 **Authors**: [Ana Neves](https://github.com/AnafNeves/), [Dominique Makowski](https://github.com/DominiqueMakowski/)
+
 **Affiliation**: [RealityBending Lab](https://realitybending.github.io/), [University of Sussex](https://www.sussex.ac.uk/)
+
 **Contact**: Ana Neves - A.neves@sussex.ac.uk ; Dominique Makowski - D.makowski@sussex.ac.uk
 
 ## Links to the studies repositories 
@@ -10,7 +13,7 @@
 - [Study1](https://github.com/RealityBending/FakeFace2)
 - [Study2 and Srudy 3](https://github.com/RealityBending/FictionEro)
 
-## Links to the analysis scripts
+## Links to the analyses scripts
 
 - [Study1](https://github.com/RealityBending/FakeFace2/analysis/2_analysis.html)
 - [Study2](https://github.com/RealityBending/FictionEro/study1/analysis/2_emotions.html)
